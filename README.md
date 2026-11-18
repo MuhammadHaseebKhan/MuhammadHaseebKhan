@@ -15,8 +15,12 @@
 **Testing:** Jest · Vitest · React Testing Library · Jasmine/Karma  
 **Cloud:** GCP · Firebase
 
-### Currently building
-Open-source starters and case studies on frontend architecture. Coming soon.
+### Featured projects
+| Project | What it shows |
+|---|---|
+| [nextjs-bff-starter](https://github.com/MuhammadHaseebKhan/nextjs-bff-starter) | Next.js 16 route handlers as a Backend-for-Frontend: server-only secrets, zod-validated upstream client, English/Arabic RTL, problem+json errors, request tracing, 40 tests, ADRs |
+
+More open-source starters and frontend architecture case studies on the way.
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-357b80118/) · muhammadhaseebkhan11@gmail.com
