@@ -19,6 +19,7 @@
 | Project | What it shows |
 |---|---|
 | [nextjs-bff-starter](https://github.com/MuhammadHaseebKhan/nextjs-bff-starter) | Next.js 16 route handlers as a Backend-for-Frontend: server-only secrets, zod-validated upstream client, English/Arabic RTL, problem+json errors, request tracing, 40 tests, ADRs |
+| [vue-ui-kit-monorepo](https://github.com/MuhammadHaseebKhan/vue-ui-kit-monorepo) · [live Storybook](https://muhammadhaseebkhan.github.io/vue-ui-kit-monorepo/) | Vue 3 component library monorepo: two-tier design tokens, light/dark, RTL, accessible Button/TextField/Dialog on native `<dialog>`, axe checks in Storybook, Changesets releases |
 
 More open-source starters and frontend architecture case studies on the way.
 
